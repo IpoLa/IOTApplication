@@ -1,4 +1,5 @@
 React Native & Redux IoT Project for Smart Home Control
+Contributor : Akram MEZAACHE
 
 This project is a React Native application built with Redux that allows users to connect with an ESP32 device and control various aspects of a smart home, such as lights, temperature, and security systems.
 Features
@@ -14,7 +15,7 @@ Installation
 
     bash
 
-git clone https://github.com/yourusername/react-native-iot-project.git
+git clone https://github.com/IpoLa/IOTApplication
 
 Navigate to the project directory:
 
